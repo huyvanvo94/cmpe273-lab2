@@ -1,7 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc73d0b4-ed1d-48d9-92e4-71c29148f280" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/com/company/LRUCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/src/com/company/LRUCacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmpe226project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cmpe226project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmpe226project/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmpe226project/src/main/java/com/cmpe226/ExampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cmpe226project/src/main/java/com/cmpe226/ExampleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cmpe273-lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cmpe273-lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connect4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connect4/src/Board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connect4/src/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connect4/src/reducer.node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db-project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db-project/src/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db-project/src/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db-project/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db-project/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker_flask/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../docker_flask/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../init_docker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runtime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/mysql/admin.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/mysql/admin.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/mysql/airbnb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/mysql/airbnb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/java/sample/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/java/sample/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/java/sample/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/java/sample/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/java/sample/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/java/sample/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/java/sample/model/AdminModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/java/sample/model/AdminModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/java/sample/model/AdminModelDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/java/sample/model/AdminModelDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/java/sample/security/HashUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/java/sample/security/HashUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/resources/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/resources/templates/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.project/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sample.project/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/1_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/2_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/5_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/vector_388_04_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/Chart.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stocks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data_new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/prediction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/stock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/com/company/StringPatternMatchByHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/src/com/company/StringPatternMatchByHash.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-321074244">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="md" value="1" />
+          <entry key="proto" value="4" />
+          <entry key="py" value="5" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="4" />
+          <entry key="md" value="32" />
+          <entry key="proto" value="520" />
+          <entry key="py" value="520" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="32" />
+          <entry key="PLAIN_TEXT" value="524" />
+          <entry key="Python" value="520" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calculator_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1536298764400" expanded="true" signature="271:272" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calculator_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+              <folding>
+                <element signature="e#1#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calculator.proto">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/calculator.proto" />
+        <option value="$PROJECT_DIR$/calculator.py" />
+        <option value="$PROJECT_DIR$/calculator_server.py" />
+        <option value="$PROJECT_DIR$/calculator_client.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1613" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cmpe273-lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmpe273-lab2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc73d0b4-ed1d-48d9-92e4-71c29148f280" name="Default Changelist" comment="" />
+      <created>1536289720344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536289720344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1613" height="951" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2635264" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009548" side_tool="true" visible="true" weight="0.330617" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4990452" visible="true" weight="0.330617" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator_pb2_grpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-943" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <marker date="1536298294967" expanded="true" signature="84:102" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1536298764400" expanded="true" signature="271:272" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
