@@ -6,5 +6,5 @@ def square_root(x):
     return y
 
 
-def add(a, b):
-    return a + b
+def add(x, y):
+    return x + y

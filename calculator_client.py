@@ -22,3 +22,4 @@ if __name__ == '__main__':
     print(addRequestGRPC(20, 20))
     print(addRequestGRPC(30, 30))
     print(addRequestGRPC(333, 333))
+    print(addRequestGRPC(222, 2222))

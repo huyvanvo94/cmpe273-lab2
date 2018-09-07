@@ -4,8 +4,17 @@
 
 About:
 ``` 
+This repo use GRPC to send data from client to server.
+For this repo, the client requests server to add two values and 
+return a result.
+```
 
 
+```
+Function test:
+
+def add(x, y):
+    return x+y 
 
 
 ```
